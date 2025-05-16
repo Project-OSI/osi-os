@@ -38,7 +38,7 @@ This roadmap outlines the planned development milestones for OSI OS. Timelines a
 - [ ] On-device diagnostics UI (LoRa signal, battery status, system health)
 - [ ] Sensor calibration and alerting functions in UI
 
-### 🚀 v1.0 – Community Release (Q4 2026)
+### v1.0 – Community Release (Q4 2026)
 - [ ] Stable OS image with one-click installer
 - [ ] Configurable irrigation routines per crop
 - [ ] Multilingual dashboard (starting with English, French, Arabic, Swahili)
